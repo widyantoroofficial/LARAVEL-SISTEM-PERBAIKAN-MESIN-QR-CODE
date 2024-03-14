@@ -25,14 +25,6 @@ Sistem Perbaikan Mesin Dengan mengunakan Scanner dan QR Code Untuk melakukan per
 
 
 
-**HALAMAN LOGIN**
-![App Screenshot](screenshoot/login.png)
-**INVENTARIS MESIN**
-![App Screenshot](screenshoot/inventaris.png)
-**SISTEM PERBAIKAN**
-![App Screenshot](screenshoot/perbaikkan.png)
-
-
 ## Feedback
 
 Berikan feedback atau Ingin Memproleh SourceCode:
